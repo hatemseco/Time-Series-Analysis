@@ -26,7 +26,7 @@ Each project is organized in its own folder and includes:
 ### 📌 Current Projects
 
 ### 📁 Dow Jones Forecasting
-**Folder:** `Dow_jones_Forecasting_TS`
+
 
 - Historical Dow Jones index analysis
 - Trend and pattern identification
@@ -36,7 +36,7 @@ Each project is organized in its own folder and includes:
 ---
 
 ### 📁 S&P 500 Market Analysis
-**Folder:** `S&P500 Market_Analysis_TS`
+
 
 - Exploratory analysis of S&P 500 market data
 - Trend and volatility analysis
